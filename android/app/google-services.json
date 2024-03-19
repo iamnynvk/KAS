@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "821575842500",
+    "project_id": "kas-mobile-e236e",
+    "storage_bucket": "kas-mobile-e236e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821575842500:android:661852dfd2bd8b5b8a2791",
+        "android_client_info": {
+          "package_name": "com.kasmobileapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821575842500-0jgd9ajs2ika9pucq9jeutrhfrs97j3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQkT9D-VpGwNfd-0bnCps2sWIR2cNbs0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821575842500-0jgd9ajs2ika9pucq9jeutrhfrs97j3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
